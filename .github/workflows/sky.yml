@@ -30,7 +30,7 @@ jobs:
 
       # paints the live weather into the banner (between its <!--WEATHER--> markers),
       # writes bloom-header-night.svg next to it, and draws the seasonal footer
-      - uses: yuki4266/living-scene@v1
+      - uses: Alex-0910EL/living-scene@v1
         with:
           lat: "38.06"          # 石家庄 纬度
           lon: "114.49"         # 石家庄 经度
